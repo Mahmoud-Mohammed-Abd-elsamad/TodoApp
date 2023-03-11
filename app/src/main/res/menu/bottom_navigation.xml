@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/todo_ic_list"
+    android:title=""
+    android:icon="@drawable/iconlist"
+    />
+    <item
+        android:id="@+id/todo_ic_setting"
+        android:title=""
+        android:icon="@drawable/iconsettings"/>
+</menu>

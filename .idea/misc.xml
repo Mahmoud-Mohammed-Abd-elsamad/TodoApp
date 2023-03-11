@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/drawable-anydpi/ic_add.xml" value="0.1435" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/drawable-anydpi/ic_delete.xml" value="0.1135" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1435" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/drawable/ic_drag.xml" value="0.1135" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1435" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/drawable/line_back_ground.xml" value="0.122" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/drawable/list_driver.xml" value="0.1135" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/activity_ubdate.xml" value="0.1390625" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/bottom_sheet_add.xml" value="0.1078125" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/fragment_todo_list.xml" value="0.15" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/fragment_todo_settings.xml" value="0.15" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/list_divider.xml" value="0.18854166666666666" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/list_item_layout.xml" value="0.1875" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/swipe_to_delete.xml" value="0.1" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/layout/todo_item.xml" value="0.21" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/menu/bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1155" />
+        <entry key="..\:/javaa.cod/TOTDO/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
